@@ -1,4 +1,5 @@
 import { useState } from "react";
+const lrcLogo = "/lrc-logo.png";
 
 const options = [
   { label: "Stage1", price: 250 },
